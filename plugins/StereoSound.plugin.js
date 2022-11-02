@@ -1,8 +1,8 @@
 /**
  * @name StereoSound
  * @version 0.0.6
- * @authorLink https://github.com/bepvte
- * @source https://raw.githubusercontent.com/bepvte/bd-addons/main/plugins/StereoSound.plugin.js
+ * @authorLink https://github.com/SuloB
+ * @source https://github.com/SuloB/-bd-addons/edit/main/plugins/StereoSound.plugin.js
  */
 /*@cc_on
 @if (@_jscript)
@@ -103,7 +103,7 @@ module.exports = (() => {
       };
       if (!this.settingsWarning()) {
         if (this.settings.enableToasts) {
-          Toasts.info("Thank Lupit#6600");
+          Toasts.info("Thank sulo#0666");
         }
       }
       return ret;
