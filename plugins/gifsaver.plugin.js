@@ -3,8 +3,8 @@
  * @version 2.0.0
  * @description Feel free to delete, remainder of gifsaver
  * @author bepvte
- * @authorLink https://github.com/bepvte
- * @source https://github.com/bepvte/bd-addons
+ * @authorLink https://github.com/SuloB
+ * @source https://github.com/SuloB/bd-addons
  * */
 
 /*@cc_on
@@ -37,12 +37,12 @@ module.exports = (() => {
 			name: "GifSaver",
 			authors: [{
 				name: "bep",
-				discord_id: "147077474222604288",
-				github_username: "bepvte"
+				discord_id: "819919404271272006",
+				github_username: "SuloB"
 			}, {
-				name: "TheGameratorT",
+				name: "TheGamerator",
 				discord_id: "355434532893360138",
-				github_username: "TheGameratorT"
+				github_username: "TheGamerator"
 			}],
 			version: "2.0.0",
 			description: "Feel free to delete, remainder of gifsaver",
