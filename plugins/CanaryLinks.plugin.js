@@ -4,9 +4,9 @@
  * @version 0.0.7
  * @author bep
  * @authorId 147077474222604288
- * @authorLink https://github.com/bepvte
- * @website https://github.com/bepvte/bd-addons
- * @source https://raw.githubusercontent.com/bepvte/bd-addons/main/plugins/CanaryLinks.plugin.js
+ * @authorLink https://github.com/SuloB
+ * @website https://github.com/SuloB/bd-addons
+ * @source https://github.com/SuloB/-bd-addons/blob/main/plugins/CanaryLinks.plugin.js
  */
 /*@cc_on
 @if (@_jscript)
@@ -35,12 +35,12 @@ const config = {
     main: "index.js",
     name: "Canary Links",
     author: "bep",
-    authorId: "147077474222604288",
-    authorLink: "https://github.com/bepvte",
+    authorId: "819919404271272006",
+    authorLink: "https://github.com/SuloB",
     version: "0.0.7",
     description: "Makes \"copy message link\" not begin with canary.discord.com or ptb.discord.com",
     github: "https://github.com/bepvte/bd-addons",
-    github_raw: "https://raw.githubusercontent.com/bepvte/bd-addons/main/plugins/CanaryLinks.plugin.js",
+    github_raw: "https://raw.githubusercontent.com/SuloB/bd-addons/main/plugins/CanaryLinks.plugin.js",
     changelog: [
         {
             title: "Fixes",
