@@ -4,9 +4,9 @@
  * @version 0.0.3
  * @author bep
  * @authorId 147077474222604288
- * @authorLink https://github.com/bepvte
- * @website https://github.com/bepvte/bd-addons
- * @source https://raw.githubusercontent.com/bepvte/bd-addons/main/plugins/NoSpotifyPause.plugin.js
+ * @authorLink https://github.com/SuloB
+ * @website https://github.com/SuloB/bd-addons
+ * @source https://github.com/SuloB/-bd-addons/edit/main/plugins/NoSpotifyPause.plugin.js
  */
 /*@cc_on
 @if (@_jscript)
