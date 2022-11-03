@@ -1,7 +1,7 @@
 # Sulo's BetterDiscord Plugins
 My plugins for [Betterdiscord](https://betterdiscord.app)
 
-If it doesnt export, do it manually with your gifsaver.config.js file here: https://codepen.io/bepvte/full/VwzVzpq.
+If it doesnt export, do it manually with your gifsaver.config.js file here:[codepen.io](https://codepen.io/bepvte/full/VwzVzpq).
 
 CanaryLinks: When clicking "Copy Message Link" on Discord Canary or PTB, make links start with https://discord.com/channels/ instead of https://canary.discord.com/channels/
 
