@@ -2,7 +2,7 @@
  * @name Canary Links
  * @description Makes "copy message link" not begin with canary.discord.com or ptb.discord.com
  * @version 0.0.7
- * @author bep
+ * @author Sulo
  * @authorId 819919404271272006
  * @authorLink https://github.com/SuloB
  * @website https://github.com/SuloB/bd-addons
