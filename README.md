@@ -1,5 +1,5 @@
 # Sulo's BetterDiscord Plugins
-My plugins for BetterDiscord
+My plugins for betterdiscord.app
 
 If it doesnt export, do it manually with your gifsaver.config.js file here: https://codepen.io/bepvte/full/VwzVzpq.
 
