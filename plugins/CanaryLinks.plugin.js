@@ -3,7 +3,7 @@
  * @description Makes "copy message link" not begin with canary.discord.com or ptb.discord.com
  * @version 0.0.7
  * @author bep
- * @authorId 147077474222604288
+ * @authorId 819919404271272006
  * @authorLink https://github.com/SuloB
  * @website https://github.com/SuloB/bd-addons
  * @source https://github.com/SuloB/-bd-addons/blob/main/plugins/CanaryLinks.plugin.js
