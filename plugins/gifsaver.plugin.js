@@ -2,7 +2,7 @@
  * @name GifSaver
  * @version 2.0.0
  * @description Feel free to delete, remainder of gifsaver
- * @author bepvte
+ * @author Sulo
  * @authorLink https://github.com/SuloB
  * @source https://github.com/SuloB/bd-addons
  * */
