@@ -2,8 +2,8 @@
  * @name NoSpotifyPause
  * @description Prevents Discord from pausing your Spotify when streaming or gaming.
  * @version 0.0.3
- * @author bep
- * @authorId 147077474222604288
+ * @author Sulo
+ * @authorId 819919404271272006
  * @authorLink https://github.com/SuloB
  * @website https://github.com/SuloB/bd-addons
  * @source https://github.com/SuloB/-bd-addons/edit/main/plugins/NoSpotifyPause.plugin.js
