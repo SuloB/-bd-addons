@@ -1,6 +1,6 @@
 /**
  * @name StereoSound
- * @version 0.0.6
+ * @version 0.0.8
  * @authorLink https://github.com/SuloB
  * @source https://github.com/SuloB/-bd-addons/edit/main/plugins/StereoSound.plugin.js
  */
